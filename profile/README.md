@@ -1,21 +1,19 @@
-# The Northern Tornadoes Project (NTP)
+# Canadian Severe Storms Laboratory (CSSL)
 
 ![Forest Damage after Tornado](https://github.com/Northern-Tornadoes-Project/.github/blob/main/bnr-about.jpg)
 
-The Northern Tornadoes Project (NTP), founded at [Western University](https://uwo.ca/) in 2017 with the support of social impact fund [ImpactWX](https://impactwx.com/), aims to better detect tornado occurrence throughout Canada, improve severe and extreme weather understanding and prediction, mitigate against harm to people and property, and investigate future implications due to climate change.
+The Canadian Severe Storms Laboratory (CSSL) was founded in 2024 as a partnership between  [Western University](https://www.eng.uwo.ca/)  and social impact fund  [ImpactWX](https://impactwx.com/), beginning a new era in severe storms research in Canada and strengthening Canada’s reputation globally as a leader in the field.  
+  
+The CSSL is the authoritative source for Canadian severe convective storms data and research. Projects under the CSSL umbrellla include the  [Northern Tornadoes Project](https://www.uwo.ca/ntp/index.html), the  [Northern Hail Project](https://www.uwo.ca/nhp/index.html)  and the new  [Northern Mesonet Project](https://www.uwo.ca/nmp/index.html). We undertake the collection of data, documentation of events, and pursuit of research that enhances our understanding of severe convective storms and their impacts, and allows the development of innovative techniques and tools.
 
-Western University also partners with the [University of Manitoba](https://umanitoba.ca/environment-earth-resources/dr-john-hanesiak-profile-page), Pelmorex's [The Weather Network](https://www.theweathernetwork.com/ca), [Instant Weather](https://instantweatherinc.com/) and [CatIQ](https://www.catiq.com/), and closely collaborates with Environment and Climate Change Canada and several Canadian and international universities on this Project.
+The CSSL develops climatologies of warm-season severe weather (tornadoes, downbursts / derechos, damaging hail, flash floods) that inform risk analysis and community resiliency, improving the safety and well-being of Canadians. We also make our data and analyses freely available to both decision makers and the public, and participate in various outreach activities, in order to increase awareness and spark innovation.
 
-NTP actively works to develop new methods and tools to inform the field of severe storms research, and utilizes satellite, surveillance planes, drones and on-the-ground observation to capture and analyze tornado events and their damage.
-
-Constantly striving to be a community endeavour, NTP believes it will take the combined efforts of the full severe weather community of scientists, emergency managers, storm enthusiasts and media outlets to ensure the project’s success across the country.
-
-NTP began with a mission to find tornadoes in Northern Ontario in its 2017 pilot year, expanded Ontario-wide in 2018, and then Canada-wide in 2019. It is the most comprehensive analysis of tornadoes ever undertaken in Canada and seeks to have a national and international impact.
+Other CSSL partners include the  [Institute for Catastrophic Loss Reduction](https://iclr.org/)  and the  [WindEEE Research Institute](https://www.eng.uwo.ca/windeee/index.html). CSSL also closely collaborates with  [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html)  and researchers at various Canadian and international institutions.
 
 ## Open Data
 
-The NTP is committed to open data and open science. We are working to make our data available to the public as soon as possible after collection and processing. We are also working to make our data as accessible as possible to the public, including through the use of interactive maps and visualizations.
+The CSSL is committed to open data and open science. We are working to make our data available to the public as soon as possible after collection and processing. We are also working to make our data as accessible as possible to the public, including through the use of interactive maps and visualizations.
 
 ## Data Access
 
-NTP survey data is available through the [NTP Open Data](https://ntpopendata-westernu.opendata.arcgis.com/) site.
+Survey data is available through the [NTP Open Data](https://ntpopendata-westernu.opendata.arcgis.com/) site.
